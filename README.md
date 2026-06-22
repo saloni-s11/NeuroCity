@@ -140,6 +140,59 @@ NeuroCity
 │
 └── README.md
 
+---
+
+---
+
+## Frontend Architecture
+
+The frontend is built using a modern React + TypeScript stack focused on performance and scalability.
+
+### Key Responsibilities
+- Handles user interface and visualization of city data
+- Renders Digital Twin using Three.js / React Three Fiber
+- Manages state and server data using TanStack Query
+- Provides routing and navigation using TanStack Router
+- Displays charts, analytics, and dashboards
+
+### Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- TanStack Router
+- TanStack Query
+- Recharts
+- React Three Fiber
+- Three.js
+- Radix UI
+- Lucide React
+
+---
+
+## Backend Architecture
+
+The backend is built using FastAPI to provide high-performance APIs for city data processing and simulation.
+
+### Key Responsibilities
+- Serves city-wide datasets via REST APIs
+- Handles simulation logic for urban forecasting
+- Processes traffic, environment, and infrastructure data
+- Provides AI-driven insights and analytics endpoints
+
+### Tech Stack
+- Python
+- FastAPI
+- Uvicorn (ASGI server)
+- JSON-based datasets for simulation and analytics
+
+### Data Handling
+- `city_state.json` → Overall city status
+- `traffic_data.json` → Traffic flow and congestion data
+- `pollution_data.json` → Environmental metrics
+- `infrastructure_data.json` → Asset and infrastructure health data
+
+---
 
 ## Modules
 
