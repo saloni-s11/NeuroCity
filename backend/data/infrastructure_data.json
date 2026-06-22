@@ -1,0 +1,67 @@
+{
+  "assets": [
+    { "asset_id": "RD001", "asset_name": "Western Expressway Overpass",  "type": "Road",           "sector": "Downtown",         "health_score": 74, "status": "Warning",  "risk_level": "Medium", "last_inspection": "2026-05-10", "issue": "Surface cracking detected" },
+    { "asset_id": "RD002", "asset_name": "LBS Marg Stretch",             "type": "Road",           "sector": "Residential East", "health_score": 88, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-01", "issue": null },
+    { "asset_id": "RD003", "asset_name": "Eastern Freeway Segment E-3",  "type": "Road",           "sector": "Tech Park",        "health_score": 55, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-04-18", "issue": "Pothole clusters, load bearing failure risk" },
+    { "asset_id": "RD004", "asset_name": "SV Road North Corridor",       "type": "Road",           "sector": "Commercial Hub",   "health_score": 67, "status": "Warning",  "risk_level": "Medium", "last_inspection": "2026-05-22", "issue": "Drainage blockage" },
+    { "asset_id": "BR001", "asset_name": "Mahim Causeway Bridge",        "type": "Bridge",         "sector": "Downtown",         "health_score": 58, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-05-05", "issue": "Joint corrosion, structural inspection required" },
+    { "asset_id": "BR002", "asset_name": "Bandra Sea Link Pillar P-12",  "type": "Bridge",         "sector": "Commercial Hub",   "health_score": 91, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-03", "issue": null },
+    { "asset_id": "BR003", "asset_name": "Vashi Creek Bridge",           "type": "Bridge",         "sector": "Green Belt",       "health_score": 78, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-05-28", "issue": null },
+    { "asset_id": "PW001", "asset_name": "Substation 7 · Dharavi",       "type": "Power Grid",     "sector": "Industrial Zone",  "health_score": 61, "status": "Warning",  "risk_level": "High",   "last_inspection": "2026-05-22", "issue": "Transformer overheating" },
+    { "asset_id": "PW002", "asset_name": "Substation 12 · BKC",          "type": "Power Grid",     "sector": "Tech Park",        "health_score": 94, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-10", "issue": null },
+    { "asset_id": "PW003", "asset_name": "HV Transmission Line T-3",     "type": "Power Grid",     "sector": "Industrial Zone",  "health_score": 47, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-04-30", "issue": "Insulator degradation, outage risk within 7 days" },
+    { "asset_id": "PW004", "asset_name": "Solar Rooftop Grid SR-9",      "type": "Power Grid",     "sector": "Green Belt",       "health_score": 86, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-05-30", "issue": null },
+    { "asset_id": "WT001", "asset_name": "Pump Station 12 · Wadala",     "type": "Water Network",  "sector": "Downtown",         "health_score": 63, "status": "Warning",  "risk_level": "High",   "last_inspection": "2026-05-18", "issue": "Pressure drop 18% below spec" },
+    { "asset_id": "WT002", "asset_name": "Reservoir R-4 · Powai",        "type": "Water Network",  "sector": "Residential East", "health_score": 89, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-05", "issue": null },
+    { "asset_id": "WT003", "asset_name": "Water Main WM-17 · Sion",      "type": "Water Network",  "sector": "Commercial Hub",   "health_score": 52, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-05-01", "issue": "Pipe corrosion, leakage detected" },
+    { "asset_id": "WT004", "asset_name": "Sewage Treatment Plant S-2",   "type": "Water Network",  "sector": "Industrial Zone",  "health_score": 71, "status": "Warning",  "risk_level": "Medium", "last_inspection": "2026-05-20", "issue": "Capacity at 91%" },
+    { "asset_id": "SL001", "asset_name": "Streetlight Grid F-3 · Andheri","type": "Street Lights",  "sector": "Commercial Hub",   "health_score": 65, "status": "Warning",  "risk_level": "Medium", "last_inspection": "2026-05-25", "issue": "12 nodes offline" },
+    { "asset_id": "SL002", "asset_name": "Streetlight Grid C-7 · Bandra","type": "Street Lights",  "sector": "Downtown",         "health_score": 92, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-08", "issue": null },
+    { "asset_id": "SL003", "asset_name": "Smart Signal System SS-4",     "type": "Street Lights",  "sector": "Tech Park",        "health_score": 79, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-05-31", "issue": null },
+    { "asset_id": "PB001", "asset_name": "Municipal Hospital Block B",   "type": "Public Building","sector": "Residential East", "health_score": 84, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-05-29", "issue": null },
+    { "asset_id": "PB002", "asset_name": "City Hall Annex Wing",         "type": "Public Building","sector": "Downtown",         "health_score": 76, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-05-14", "issue": null },
+    { "asset_id": "PB003", "asset_name": "Fire Station FS-8 · Kurla",   "type": "Public Building","sector": "Commercial Hub",   "health_score": 45, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-04-10", "issue": "Structural inspection overdue, roof damage" },
+    { "asset_id": "UT001", "asset_name": "Gas Pipeline Segment GP-5",   "type": "Utilities",      "sector": "Industrial Zone",  "health_score": 68, "status": "Warning",  "risk_level": "High",   "last_inspection": "2026-05-08", "issue": "Pressure variance detected" },
+    { "asset_id": "UT002", "asset_name": "Telecom Tower TW-22",         "type": "Utilities",      "sector": "Tech Park",        "health_score": 96, "status": "Healthy",  "risk_level": "Low",    "last_inspection": "2026-06-09", "issue": null },
+    { "asset_id": "UT003", "asset_name": "Waste Transfer Station WTS-3","type": "Utilities",      "sector": "Green Belt",       "health_score": 73, "status": "Warning",  "risk_level": "Medium", "last_inspection": "2026-05-26", "issue": "Compactor malfunction" },
+    { "asset_id": "UT004", "asset_name": "Stormwater Drain SD-11",      "type": "Utilities",      "sector": "Residential East", "health_score": 57, "status": "Critical", "risk_level": "High",   "last_inspection": "2026-05-03", "issue": "Blockage in 3 nodes, flooding risk" }
+  ],
+  "utilities": {
+    "power": {
+      "name": "Power Grid",
+      "current_load_pct": 82,
+      "capacity_mw": 1200,
+      "active_load_mw": 984,
+      "outages": 2,
+      "efficiency_pct": 91,
+      "substations_online": 14,
+      "substations_total": 16
+    },
+    "water": {
+      "name": "Water Network",
+      "utilization_pct": 68,
+      "daily_supply_ml": 820,
+      "daily_demand_ml": 758,
+      "outages": 1,
+      "pump_stations_online": 11,
+      "pump_stations_total": 12,
+      "leakage_pct": 4.2
+    },
+    "street_lights": {
+      "name": "Street Lighting",
+      "nodes_online": 4820,
+      "nodes_total": 5000,
+      "online_pct": 96.4,
+      "faults": 180,
+      "energy_kwh_daily": 2140
+    },
+    "gas": {
+      "name": "Gas Network",
+      "pressure_bar": 4.2,
+      "utilization_pct": 59,
+      "distribution_lines": 38,
+      "active_lines": 36,
+      "incidents": 1
+    }
+  }
+}

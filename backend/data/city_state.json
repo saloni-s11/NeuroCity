@@ -1,0 +1,56 @@
+[
+  {
+    "sector_id": "A1",
+    "sector_name": "Downtown",
+    "traffic": 87,
+    "aqi": 165,
+    "energy_usage": 78,
+    "population": 125000,
+    "infrastructure_health": 82
+  },
+  {
+    "sector_id": "B1",
+    "sector_name": "Industrial Zone",
+    "traffic": 65,
+    "aqi": 240,
+    "energy_usage": 95,
+    "population": 75000,
+    "infrastructure_health": 71
+  },
+  {
+    "sector_id": "C1",
+    "sector_name": "Residential East",
+    "traffic": 45,
+    "aqi": 80,
+    "energy_usage": 52,
+    "population": 98000,
+    "infrastructure_health": 89
+  },
+  {
+    "sector_id": "D1",
+    "sector_name": "Tech Park",
+    "traffic": 91,
+    "aqi": 120,
+    "energy_usage": 88,
+    "population": 65000,
+    "infrastructure_health": 94
+  },
+  {
+    "sector_id": "E1",
+    "sector_name": "Green Belt",
+    "traffic": 32,
+    "aqi": 55,
+    "energy_usage": 38,
+    "population": 42000,
+    "infrastructure_health": 96
+  },
+  {
+    "sector_id": "F1",
+    "sector_name": "Commercial Hub",
+    "traffic": 78,
+    "aqi": 140,
+    "energy_usage": 82,
+    "population": 88000,
+    "infrastructure_health": 63
+  }
+]
